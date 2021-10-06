@@ -114,6 +114,7 @@ main {
   font-size: 2.3rem;
   line-height: 1.2;
   display: inline;
+  border-radius: 5px;
 }
 
 .page-wrapper {
