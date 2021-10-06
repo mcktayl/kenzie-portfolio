@@ -64,13 +64,14 @@ nav a {
   text-decoration: none;
   padding: 5px 10px;
   color: var(--secondary);
-  margin-right: 10px;
+  margin-right: 15px;
   background-image: linear-gradient(270deg, var(--secondary) 0%, var(--secondary) 100%);
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
   transition: all 0.25s ease-in;
   font-size: 1.4rem;
+  border-radius: 5px;
 }
 
 nav a:hover {
