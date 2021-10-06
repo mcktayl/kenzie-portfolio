@@ -5,7 +5,7 @@
 /* brand color palette */
 :root {
   --primary: rgb(35, 48, 66);
-  --secondary: rgb(124, 239, 243);
+  --secondary: rgb(124, 239, 243, .7);
   --tertiary: rgb(29, 31, 34);
   --dark: rgba(28, 29, 33, 1);
   --light: rgba(238, 238, 247, 1);
@@ -47,10 +47,11 @@ header {
 header h1 {
   color: var(--tertiary);
   background-color: var(--secondary);
-  padding: 5px 1% 5px 6%;
+  padding: 5px 1% 5px 2%;
   margin: 0;
   font-size: 4vw;
   line-height: 1;
+  border-radius: 5px;
 }
 
 nav {
