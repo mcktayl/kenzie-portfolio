@@ -225,23 +225,23 @@ main {
 
 /* portfolio project images */
 .project-01 {
-  background-image: url("../images/02-run-buddy.jpg");
+  background-image: url("../images/project-01.jpg");
 }
 
 .project-02 {
-  background-image: url("../images/02-portfolio-1.jpg");
+  background-image: url("../images/project-02.jpg");
 }
 
 .project-03 {
-  background-image: url("../images/02-portfolio-2.jpg");
+  background-image: url("../images/project-03.jpg");
 }
 
 .project-04 {
-  background-image: url("../images/02-portfolio-3.jpg");
+  background-image: url("../images/project-04.jpg");
 }
 
 .project-05 {
-  background-image: url("../images/02-portfolio-4.jpg");
+  background-image: url("../images/project-05.jpg");
 }
 
 /* end portfolio project images */
