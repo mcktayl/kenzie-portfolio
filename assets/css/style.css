@@ -14,7 +14,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: var(--primary);
   background-color: var(--light);
   line-height: 1.5;
@@ -220,23 +220,23 @@ main {
 }
 
 /* portfolio project images */
-.run-buddy {
+.project-01 {
   background-image: url("../images/02-run-buddy.jpg");
 }
 
-.led-wall {
+.project-02 {
   background-image: url("../images/02-portfolio-1.jpg");
 }
 
-.react-calc {
+.project-03 {
   background-image: url("../images/02-portfolio-2.jpg");
 }
 
-.pastel-puzzles {
+.project-04 {
   background-image: url("../images/02-portfolio-3.jpg");
 }
 
-.surf-report {
+.project-05 {
   background-image: url("../images/02-portfolio-4.jpg");
 }
 
