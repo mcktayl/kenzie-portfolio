@@ -14,7 +14,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--primary);
   background-color: var(--light);
   line-height: 1.5;
@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
   margin: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 p {
@@ -95,7 +95,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("../images/portfolio-bg.jpg"),
+  background-image: url('../images/portfolio-bg.jpg'),
     radial-gradient(var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
@@ -235,23 +235,23 @@ main {
 
 /* portfolio project images */
 .project-01 {
-  background-image: url("../images/screenshot-01.png");
+  background-image: url('../images/the-movie-database.png');
 }
 
 .project-02 {
-  background-image: url("../images/screenshot-02.png");
+  background-image: url('../images/planmark.png');
 }
 
 .project-03 {
-  background-image: url("../images/screenshot-03.png");
+  background-image: url('../images/weather-app.png');
 }
 
 .project-04 {
-  background-image: url("../images/project-04.jpg");
+  background-image: url('../images/code-quiz.png');
 }
 
 .project-05 {
-  background-image: url("../images/project-05.jpg");
+  background-image: url('../images/project-05.jpg');
 }
 
 /* end portfolio project images */
