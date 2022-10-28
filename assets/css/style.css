@@ -243,15 +243,18 @@ main {
 }
 
 .project-03 {
-  background-image: url('../images/weather-app.png');
+  background-image: url('../images/employee-tracker.png');
 }
 
 .project-04 {
-  background-image: url('../images/code-quiz.png');
+  background-image: url('../images/schedule-planner.png');
 }
 
 .project-05 {
-  background-image: url('../images/project-05.jpg');
+  background-image: url('../images/password-generator.png');
+}
+.project-06 {
+  background-image: url('../images/rock-paper-scissors.png');
 }
 
 /* end portfolio project images */
